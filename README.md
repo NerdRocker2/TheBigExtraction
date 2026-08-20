@@ -36,7 +36,7 @@ Faction - Function - Context or Action - Sequence - Transcript - Original basena
 Only meaningful fields are included. The stable first fields make normal alphabetical sorting useful.
 
 - **Faction:** `USA`, `China`, `GLA`, or `Shared`.
-- **Function:** examples include `Unit Voice`, `Campaign Mission 03`, `General Challenge Taunt`, `EVA Announcement`, `Weapon Sound`, `Ambient Audio`, `Music`, `Campaign Video Mission 05`, `Interface Texture`, and `Terrain Texture`.
+- **Function:** examples include `Unit Voice`, `General Challenge Taunt`, `Weapon Sound`, `Ambient Audio`, `Music` and `Terrain Texture`.
 - **Context or Action:** the unit, speaker, cinematic role, interface element, sound event, texture purpose, or other useful description.
 - **Sequence:** an INI event number, campaign-dialog order, voice variation, or an ordered phase such as Attack, Sustain, and Decay.
 - **Transcript:** included only for an accepted voice transcription.
