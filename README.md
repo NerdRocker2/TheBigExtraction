@@ -122,16 +122,6 @@ W3D, or Westwood 3D, is the game's proprietary model format. We converted the 9,
  - Four-view PNG showing front, right, back and left sides of 3D models
  - Blender files to create your own renderings of the 3D models
 
-### WAK, CSF and Legacy Readme Conversions
-
-The 25 WAK files are map-sidecar data describing 3,011 water-wave placements. Each fixed-length entry supplies the start and end coordinates of a pond, ocean, close-ocean, double-close-ocean or radial wave. Every WAK received a color-coded PNG diagram for ordinary viewing, an SVG version for lossless scaling and inspection, and a CSV containing the exact coordinates and wave types. The diagrams show the spatial wave layout in map coordinates; they do not attempt to recreate the underlying terrain.
-
-The three CSF files are binary localization databases. They were decoded into UTF-8 CSV and JSON files containing 15,589 localized string values under 15,592 labels. The 12 STR files are already human-readable map-localization text, so the eight populated files remain unchanged and four zero-byte placeholders were removed.
-
-The three legacy files named `readme.doc` were actually Rich Text Format documents internally. They were converted into searchable, paginated PDFs: two archive-specific copies of the Zero Hour readme and one Generals readme. Their original bytes, along with the original WAK and CSF files, are preserved in the nearest `_primitive media` folders.
-
-WND files remain because they are readable text describing menu geometry, image references, fonts, colors and callbacks. Compiled PSO and VSO shaders cannot produce a meaningful standalone image without the original rendering pipeline, while SEC files are archive-fingerprint data rather than music or media; those formats were therefore removed. The cleanup manifest records every derivative, preserved original and removal with its SHA-256 hash.
-
 ## Rendering DDS Textures as PNG Images
 
 DDS stands for **DirectDraw Surface**. The file type is focused on textures rather than images. For each texture, we render a 2D version of it.
