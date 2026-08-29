@@ -1,0 +1,33 @@
+{
+  "reviewed": 362,
+  "previously_approved_pilot": 76,
+  "newly_visually_reviewed": 286,
+  "published": 305,
+  "published_mp4": 38,
+  "published_gif": 267,
+  "rejected": 57,
+  "format_changes": {
+    "152": {
+      "recommended_format": "mp4",
+      "reason": "Cinematic vehicle tumble is substantial narrative motion."
+    },
+    "271": {
+      "recommended_format": "mp4",
+      "reason": "Tunnel opening is a coherent deployment sequence."
+    },
+    "309": {
+      "recommended_format": "gif",
+      "reason": "Police-light animation is a short subtle loop."
+    }
+  },
+  "rejections_by_reason": {
+    "blank or effectively invisible": 5,
+    "component only or contextless subassembly": 26,
+    "incomplete construction state or placeholder material": 10,
+    "no useful visible motion": 16
+  },
+  "visual_policy": {
+    "publish": "Complete or intelligible standalone subject with substantial mechanical motion or a legitimate subtle loop.",
+    "reject": "Blank, contextless component, incomplete construction state, placeholder material, or no useful visible motion."
+  }
+}

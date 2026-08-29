@@ -1,0 +1,1892 @@
+{
+  "collection": "C:\\Programs\\Generals Big Extraction",
+  "created_at_epoch": 1787552078.4613693,
+  "derivative_files": 84,
+  "derivative_bytes": 6160529,
+  "preserved_originals": 31,
+  "removed_files": 28,
+  "removal_counts": {
+    "pso": 14,
+    "vso": 4,
+    "sec": 5,
+    "empty-str": 4,
+    "empty-extensionless": 1
+  },
+  "existing_matching_derivatives": 0,
+  "existing_matching_preservations": 0,
+  "conflicts": [],
+  "preflight_passed": true,
+  "finished_at_epoch": 1787552078.8151057,
+  "deployment_complete": true,
+  "derivatives": [
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Definitions.csv",
+      "staged_bytes": 12600,
+      "staged_sha256": "284320674ac4a587b8da27e3bcd6c01cccbb946cc32c9d71a550bb7dcee24a7d",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Diagram.png",
+      "staged_bytes": 43828,
+      "staged_sha256": "095ba79626187b99a4ecc4a61ca039d13b5ce1c04b10dfe9d09541ab43ba37f4",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Diagram.svg",
+      "staged_bytes": 23386,
+      "staged_sha256": "4503c801398d61a5f3301cf49d989a096334be334bfd8adee002de4930bbfcf5",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Definitions.csv",
+      "staged_bytes": 19169,
+      "staged_sha256": "33d5b974f2d950f1683a6f315891ae2b3c00039bd68d01bfbfc756e2f7f1ecde",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Diagram.png",
+      "staged_bytes": 42216,
+      "staged_sha256": "260bf973ce278bfdd451d3cb30c23015978f0a5d36778b918141044db2c04caf",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Diagram.svg",
+      "staged_bytes": 36913,
+      "staged_sha256": "67742194ea689f930ec498bd22299f686d186fc41e1b777e12bc947353962287",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Definitions.csv",
+      "staged_bytes": 561,
+      "staged_sha256": "a4c7bd9e48b0ffe103fba3dc7e3ea08d49c55a598d95469727f3d77311e19110",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Diagram.png",
+      "staged_bytes": 39507,
+      "staged_sha256": "a0fc91aa75ca4df7e70732d0811fa1e2145d53a9cb50dd6f1c118901d3195e38",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Diagram.svg",
+      "staged_bytes": 4919,
+      "staged_sha256": "6ca0d02366e7bd19cc2cd58fdc49cd13108a84947db96d263c9707153c2d1e67",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Definitions.csv",
+      "staged_bytes": 17961,
+      "staged_sha256": "004619c7e65e3dff6debb1d8c697a2e160f62ea29522182bb333d2c6770ac3a0",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Diagram.png",
+      "staged_bytes": 47290,
+      "staged_sha256": "256f44095d39134e755a242992490200676f6fbfea1d2f37533f9240d5223aa0",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Diagram.svg",
+      "staged_bytes": 29269,
+      "staged_sha256": "786e2c12c483b7277e58e77167c43ec25d0002b8821c17eecac3cccdb48ef1e4",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Definitions.csv",
+      "staged_bytes": 4545,
+      "staged_sha256": "444cc42c76133339eda135b70628f7769fba927b5136c0e93f1e5c24ffabd22c",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Diagram.png",
+      "staged_bytes": 44028,
+      "staged_sha256": "7c7fc35299ccf1fb9e3ada5cc8714028e28f948804fc8411409a8930dff26017",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Diagram.svg",
+      "staged_bytes": 10845,
+      "staged_sha256": "72ee92301ffa4b2d3946a9acb0aa4b3915e7f657f57ce2330aeca6afe1136f07",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Definitions.csv",
+      "staged_bytes": 6426,
+      "staged_sha256": "db6a90187a1e68f23ee69d58c0eed3179cf0c4b7102683abed9e6c6953aaa256",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Diagram.png",
+      "staged_bytes": 43808,
+      "staged_sha256": "ad7087be5dee6de91bb91a94bc5ae5f971590b5590472a3a24e64031c79b72d5",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Diagram.svg",
+      "staged_bytes": 15228,
+      "staged_sha256": "2f3df4c76b9f621bc46fef7ff03e192fd9f21952a5a5ab2ccf8add97f217a4b2",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Definitions.csv",
+      "staged_bytes": 5404,
+      "staged_sha256": "d6ac1da47a191f601342b515b7fa446c802cda5531fcf2c441a0a8444dcb6976",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Diagram.png",
+      "staged_bytes": 42594,
+      "staged_sha256": "7b659eec48043d6cb79033c9aa11bb6d8316997f9dd0d18fe7667cc53b4d090a",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Diagram.svg",
+      "staged_bytes": 13011,
+      "staged_sha256": "205b269c741cde40f684974bcd0ccd201ddc8874e3541457b03202b20161fdbb",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Definitions.csv",
+      "staged_bytes": 13114,
+      "staged_sha256": "cbb9433457686b9d119e67771bf18ac421003365a5e74b4ff3ef746f47a0bd4e",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Diagram.png",
+      "staged_bytes": 44866,
+      "staged_sha256": "f2b52b6b9ee134a29aa7d445b8e8e048a8f76d70cee98aaf7888979547573bd1",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Diagram.svg",
+      "staged_bytes": 26031,
+      "staged_sha256": "707dc0b3070d5d32ed02fcfae5b4ba5f31c48949f2b245694c0c08905d3c5a7d",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Definitions.csv",
+      "staged_bytes": 14094,
+      "staged_sha256": "fbbacaa53b1f4ad74dd74861eef138652c90a5adb73d73e56edcfcc7453c789f",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Diagram.png",
+      "staged_bytes": 46751,
+      "staged_sha256": "6ab159c302b7829d0ff9ad3af7747e87ef08d5db8fa06ff4a8e0f03dedad4ded",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Diagram.svg",
+      "staged_bytes": 26046,
+      "staged_sha256": "21e848cb756e24843adc6eceeb51588e5cefc752478f1f09055edbf9e884e715",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Definitions.csv",
+      "staged_bytes": 12417,
+      "staged_sha256": "7315a08e8970149c846e050aff2cd81829a1aaca7999650db2f60b94a4c4eeb0",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Diagram.png",
+      "staged_bytes": 44754,
+      "staged_sha256": "333825dc19e00ecbb6e98ba09306e4c01e528f9b5991d8e804ff37f494961cab",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Diagram.svg",
+      "staged_bytes": 24435,
+      "staged_sha256": "a90a39b976c3a55ab276e6dac17b92bdfcbfabccbdd28f0f9392fbe92d6a7918",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Definitions.csv",
+      "staged_bytes": 6995,
+      "staged_sha256": "2837de1b0952db9485e04f928c6209a0e79d72e1f0724cce76051dbeac880b0a",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Diagram.png",
+      "staged_bytes": 43495,
+      "staged_sha256": "758e91a0a52841f70b7dbaa4d4713b8ce9a926af94c05f978d615d269f82c2f8",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Diagram.svg",
+      "staged_bytes": 16463,
+      "staged_sha256": "c29bf2219e3fb372c7e241514ce58332e1ef06c998d865f8162d7f366351c71f",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Definitions.csv",
+      "staged_bytes": 10044,
+      "staged_sha256": "b92ffe90dd446b24e4847f56fa763f040da3866350ad2a00b4084a1b5a6ca9ff",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Diagram.png",
+      "staged_bytes": 45160,
+      "staged_sha256": "a6150f5fcff3e5f9ed5ac5f18f80ebec078d199f84f1200aecfe7ed110b080be",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Diagram.svg",
+      "staged_bytes": 21560,
+      "staged_sha256": "1b0b0e9eb11bb3bba37049deb58a1fe8f66ca0b59c4ca8dbb67f6f951b3b888f",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Definitions.csv",
+      "staged_bytes": 7115,
+      "staged_sha256": "80a9472da0ab7895f8d6498083db475f028ce17411f86f591384ec48fb9ca9fc",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Diagram.png",
+      "staged_bytes": 42146,
+      "staged_sha256": "43e274ff88f4da2f38900549587d6c6eda6a6836a29d6a9dfdec498f75fd4d4b",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Diagram.svg",
+      "staged_bytes": 15367,
+      "staged_sha256": "235da28c977e0366a71b61cd2a1694d00f9e68047250710fce0027384f0ddc1a",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Definitions.csv",
+      "staged_bytes": 12227,
+      "staged_sha256": "1198f13ff97e5e1f6455ea22af62b62d15b3eede6f9e406298eebdd84f47c426",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Diagram.png",
+      "staged_bytes": 44737,
+      "staged_sha256": "b3ed13d5258b5f9cdeac0e1a513f3a9e3424398077a730a7ad3a41bd9304664c",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Diagram.svg",
+      "staged_bytes": 24432,
+      "staged_sha256": "139b9510206d3939b8978cd79c990e89ed191e158d4a77b529fe40b21f37ff76",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Definitions.csv",
+      "staged_bytes": 206,
+      "staged_sha256": "66b37c645471c68e6c46aacd85319b364d871ec7512da6229fa144879be78f95",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Diagram.png",
+      "staged_bytes": 36575,
+      "staged_sha256": "2b1162747cd00f429efb22cd06069282114333fd1c0218f8e19519cb8401a668",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Diagram.svg",
+      "staged_bytes": 4310,
+      "staged_sha256": "c5a406a968685f3507a6c31575ef9e8809001faf63236a2b4cea01fdae6a6f30",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Definitions.csv",
+      "staged_bytes": 42906,
+      "staged_sha256": "cb7d2e23e7c92bd6166f68e2b0fe409d208365c01e0d98cf35f0461e4f23c4e9",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Diagram.png",
+      "staged_bytes": 41752,
+      "staged_sha256": "3d586eec1732f3a1e19593c89fba4ec09015d2bc2ccd2f6a1afda5d26f8da624",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Diagram.svg",
+      "staged_bytes": 76585,
+      "staged_sha256": "dc05d252b444b967905b918df162424a7b0cbcf7bc159b04a0cbceeed6139bba",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Definitions.csv",
+      "staged_bytes": 115336,
+      "staged_sha256": "1cb74503a06db3037a5a4992bd5ee586f80474e49d4ebf271f070b9e6c7bae45",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Definitions.csv",
+      "target_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Diagram.png",
+      "staged_bytes": 44774,
+      "staged_sha256": "686933d610c16c3d7940b6593a1edd33b6d4b06db6fe11a1ecaa9810d815083f",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Diagram.png",
+      "target_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Diagram.svg",
+      "staged_bytes": 199768,
+      "staged_sha256": "c671daad25cd31ceaba39b5a4ffddad0fa03e11ddaa003335dc38f150d1ecdc0",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Diagram.svg",
+      "target_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Definitions.csv",
+      "staged_bytes": 9125,
+      "staged_sha256": "586d747d180cd547343f2d23b4a1bfe475371c5c7cc976de2ec54e84246c373d",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Definitions.csv",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Diagram.png",
+      "staged_bytes": 41987,
+      "staged_sha256": "1fd7b40f5bcaf922664f0e1dc4a3a1fe0a179e24cb44e0ebdc2ee678d1d6cbb1",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Diagram.png",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Diagram.svg",
+      "staged_bytes": 18116,
+      "staged_sha256": "722960bb099de9035bbd097200bd20ad1bd6ff60d585dea47057403ffee30ed6",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Diagram.svg",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Definitions.csv",
+      "staged_bytes": 21637,
+      "staged_sha256": "24eea567f87f78b1636379243122eb318d5387eaa9aeb63034a4c0b4bbd00408",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Definitions.csv",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Diagram.png",
+      "staged_bytes": 44706,
+      "staged_sha256": "f5f0bdd069a5a75401876ceaf29f2c4a664c0136f1eed566f8be6b40b51b58b5",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Diagram.png",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Diagram.svg",
+      "staged_bytes": 37210,
+      "staged_sha256": "5a9f31d427f222fdac4f50c1ef4d806d60ee37eba52ccf1dbc28e5b73cac0c43",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Diagram.svg",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Definitions.csv",
+      "staged_bytes": 6732,
+      "staged_sha256": "1784032d82da9cbd12bb2ddcd0a214e952fce0790575655467f1aae4b4c35e8b",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Definitions.csv",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Diagram.png",
+      "staged_bytes": 40252,
+      "staged_sha256": "1dded06b3e606e23e059c33061d66eb6132942ff00f8c9de53dc871361eb753a",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Diagram.png",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Diagram.svg",
+      "staged_bytes": 14257,
+      "staged_sha256": "387bf847856f1a430a20074d7de8b59c0882a0c87ca6830fffdb168bf9566341",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Diagram.svg",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Definitions.csv",
+      "staged_bytes": 13080,
+      "staged_sha256": "6cd2959297f83223e8e3f8f84fcac47c717819f5023790064a28c660db5da252",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Definitions.csv",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Diagram.png",
+      "staged_bytes": 42117,
+      "staged_sha256": "aef3ad58b9f92983065301e1fd5fa149add5f17005a38621d2f59978485c5d26",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Diagram.png",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Diagram.svg",
+      "staged_bytes": 22601,
+      "staged_sha256": "9c147ca2dcbd0ebb97ceab16688c645299d251b786b9b352a68c4b4370c9c005",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Diagram.svg",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Definitions.csv",
+      "staged_bytes": 5876,
+      "staged_sha256": "cade371c285126da32363c0353e11d4421947b1f3d859f519e73254798a66663",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Definitions.csv",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Diagram.png",
+      "staged_bytes": 41697,
+      "staged_sha256": "d1905d60f1f0f70213457f1b542306517819c7a8acc827b64b3f71c315bddc10",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Diagram.png",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Diagram.svg",
+      "staged_bytes": 12325,
+      "staged_sha256": "dcc87acffab74c61d53d1f029ccb9c6f3266a5c31f1582a31b40881f3614b755",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Diagram.svg",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Definitions.csv",
+      "staged_bytes": 30240,
+      "staged_sha256": "dec0ae56b2134ad22c8de2dc1a90d7318094ead3fecf1a4c01d12e93ee24f3e6",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Definitions.csv",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Diagram.png",
+      "staged_bytes": 44063,
+      "staged_sha256": "7201fdb0501426573861d42993d185163c4c1c96d60b4f688ed389c479b5c9ab",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Diagram.png",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Diagram.svg",
+      "staged_bytes": 47583,
+      "staged_sha256": "e4ff7042f583243db5184b32fcdee05a015ebb0e42c46f28ae77bfe143aecfa7",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Diagram.svg",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Definitions.csv",
+      "staged_bytes": 5577,
+      "staged_sha256": "f7c496b16de82bdf02937636e5baecd4ac34d2a922c489d95fd41371b6861a72",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Definitions.csv",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Diagram.png",
+      "staged_bytes": 40018,
+      "staged_sha256": "a694efdb00482c16ccd31b4fc9097aed8622eb8fccfeada9c30a205a5f09c4de",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Diagram.png",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Diagram.svg",
+      "staged_bytes": 12261,
+      "staged_sha256": "d9f1cdd3d24a6d528bedea785ee2c0b23fc51a632108405e3221cf79b8825311",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Diagram.svg",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Diagram.svg"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Definitions.csv",
+      "staged_bytes": 6123,
+      "staged_sha256": "dd3c1256877651692f6a351f03b73e0dcaaaa8d16dcd428f0707158e7c87cfe4",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Definitions.csv",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Definitions.csv"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Diagram.png",
+      "staged_bytes": 41236,
+      "staged_sha256": "8022f34a51db5245635a6761e9c00a56ab5da6968bf8546d28f5d2040f07aaa5",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Diagram.png",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Diagram.png"
+    },
+    {
+      "category": "wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04.wak",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\wak\\ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Diagram.svg",
+      "staged_bytes": 14230,
+      "staged_sha256": "0aadf34c6717737850451b8dfb55313ce301db349084dd3abf60571aaf83683d",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Diagram.svg",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Diagram.svg"
+    },
+    {
+      "category": "csf",
+      "source_relative": "EnglishZH.big\\Data\\English\\generals.csf",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\csf\\EnglishZH.big\\Data\\English\\Generals - Localized Strings.csv",
+      "staged_bytes": 533532,
+      "staged_sha256": "e0ccde329f1c9a75fb090684e300e26c165e7bdad6b4ebb407c0286d8f545a16",
+      "target": "C:\\Programs\\Generals Big Extraction\\EnglishZH.big\\Data\\English\\Generals - Localized Strings.csv",
+      "target_relative": "EnglishZH.big\\Data\\English\\Generals - Localized Strings.csv"
+    },
+    {
+      "category": "csf",
+      "source_relative": "EnglishZH.big\\Data\\English\\generals.csf",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\csf\\EnglishZH.big\\Data\\English\\Generals - Localized Strings.json",
+      "staged_bytes": 1121356,
+      "staged_sha256": "be4af8794f4e254c7b1dd47b2fcd672432f8274786a7ab180cc40925e05453ce",
+      "target": "C:\\Programs\\Generals Big Extraction\\EnglishZH.big\\Data\\English\\Generals - Localized Strings.json",
+      "target_relative": "EnglishZH.big\\Data\\English\\Generals - Localized Strings.json"
+    },
+    {
+      "category": "csf",
+      "source_relative": "W3DEnglishZH.big\\Data\\English\\generals.csf",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\csf\\W3DEnglishZH.big\\Data\\English\\Generals - Localized Strings.csv",
+      "staged_bytes": 531431,
+      "staged_sha256": "0977cb74a193fef7f646159901da4cd7df1249a7b526ee49254b3d621e45bf2e",
+      "target": "C:\\Programs\\Generals Big Extraction\\W3DEnglishZH.big\\Data\\English\\Generals - Localized Strings.csv",
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\Generals - Localized Strings.csv"
+    },
+    {
+      "category": "csf",
+      "source_relative": "W3DEnglishZH.big\\Data\\English\\generals.csf",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\csf\\W3DEnglishZH.big\\Data\\English\\Generals - Localized Strings.json",
+      "staged_bytes": 1113919,
+      "staged_sha256": "f6fed373346e8e5e3ba2e5d6159e4c14fa07d125fada43aec89334f78b0361b8",
+      "target": "C:\\Programs\\Generals Big Extraction\\W3DEnglishZH.big\\Data\\English\\Generals - Localized Strings.json",
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\Generals - Localized Strings.json"
+    },
+    {
+      "category": "csf",
+      "source_relative": "ZH_Generals\\English.big\\Data\\English\\generals.csf",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\csf\\ZH_Generals\\English.big\\Data\\English\\Generals - Localized Strings.csv",
+      "staged_bytes": 160746,
+      "staged_sha256": "5ea6ad83edf8f5b714fd6b556f58b9475f914da5a5b8872616e8241c73709571",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\English.big\\Data\\English\\Generals - Localized Strings.csv",
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\Generals - Localized Strings.csv"
+    },
+    {
+      "category": "csf",
+      "source_relative": "ZH_Generals\\English.big\\Data\\English\\generals.csf",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\csf\\ZH_Generals\\English.big\\Data\\English\\Generals - Localized Strings.json",
+      "staged_bytes": 418739,
+      "staged_sha256": "57aa213200310c3a381c866fe11e5b38e57c6f404a287a1c6487f48fc0d9c123",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\English.big\\Data\\English\\Generals - Localized Strings.json",
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\Generals - Localized Strings.json"
+    },
+    {
+      "category": "pdf",
+      "source_relative": "EnglishZH.big\\Data\\English\\readme.doc",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\pdf\\EnglishZH.big\\Data\\English\\Command & Conquer Generals Zero Hour - Readme.pdf",
+      "staged_bytes": 22305,
+      "staged_sha256": "05e6778fedabbbe01fcb36f6d7989ba0c5b0688b8d75138109e1106387dfa4e1",
+      "target": "C:\\Programs\\Generals Big Extraction\\EnglishZH.big\\Data\\English\\Command & Conquer Generals Zero Hour - Readme.pdf",
+      "target_relative": "EnglishZH.big\\Data\\English\\Command & Conquer Generals Zero Hour - Readme.pdf"
+    },
+    {
+      "category": "pdf",
+      "source_relative": "W3DEnglishZH.big\\Data\\English\\readme.doc",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\pdf\\W3DEnglishZH.big\\Data\\English\\Command & Conquer Generals Zero Hour - Readme.pdf",
+      "staged_bytes": 22305,
+      "staged_sha256": "08a2f0f03438d79a19b35689aaf930e0b1079a6e9b1aaccd20db8376c2f5c88d",
+      "target": "C:\\Programs\\Generals Big Extraction\\W3DEnglishZH.big\\Data\\English\\Command & Conquer Generals Zero Hour - Readme.pdf",
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\Command & Conquer Generals Zero Hour - Readme.pdf"
+    },
+    {
+      "category": "pdf",
+      "source_relative": "ZH_Generals\\English.big\\Data\\English\\readme.doc",
+      "staged": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\nonstandard-format-production\\staged\\pdf\\ZH_Generals\\English.big\\Data\\English\\Command & Conquer Generals - Readme.pdf",
+      "staged_bytes": 15178,
+      "staged_sha256": "974c75b7c1e60812ba7f0fd20be04390a58ebae5a5bd04493f3605215a33ca25",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\English.big\\Data\\English\\Command & Conquer Generals - Readme.pdf",
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\Command & Conquer Generals - Readme.pdf"
+    }
+  ],
+  "preservations": [
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach.wak",
+      "source_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach.wak",
+      "source_bytes": 1824,
+      "source_sha256": "0b7f4e4f4cf27b5de39a226c829fd0404f1ff0e108629dd6ec2d89b4941f7094",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Bombardment Beach\\_primitive media\\bombardment beach.wak",
+      "target_relative": "MapsZH.big\\Maps\\Bombardment Beach\\_primitive media\\bombardment beach.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Flash Fire\\flash fire.wak",
+      "source_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire.wak",
+      "source_bytes": 3084,
+      "source_sha256": "52335fb84114b35809b57b89e61de4d908012a80343386e58b38859eb7974736",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Flash Fire\\_primitive media\\flash fire.wak",
+      "target_relative": "MapsZH.big\\Maps\\Flash Fire\\_primitive media\\flash fire.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_Stealth\\gc_stealth.wak",
+      "source_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth.wak",
+      "source_bytes": 84,
+      "source_sha256": "26cff1378a97b709b95792fb7d9af41cabeaf2280c7a437403f1707a5d8fd3ed",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_Stealth\\_primitive media\\gc_stealth.wak",
+      "target_relative": "MapsZH.big\\Maps\\GC_Stealth\\_primitive media\\gc_stealth.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral.wak",
+      "source_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral.wak",
+      "source_bytes": 2304,
+      "source_sha256": "36f8ba820b5be86aa12938d91e7c17c48722db27738963a2ba42c4454e30e6d1",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\_primitive media\\gc_superweaponsgeneral.wak",
+      "target_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\_primitive media\\gc_superweaponsgeneral.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands.wak",
+      "source_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands.wak",
+      "source_bytes": 604,
+      "source_sha256": "24adf7adcf58605c624ce7d3f83203f5507d79ddc8e56c5b3dc1d7f5ecb7b68b",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Leipzig Lowlands\\_primitive media\\leipzig lowlands.wak",
+      "target_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\_primitive media\\leipzig lowlands.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI02\\md_chi02.wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02.wak",
+      "source_bytes": 1064,
+      "source_sha256": "9a9a8554cc9534cb67fbc11cda79055b89ed88fb948d1f37c2cde185999a28dc",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI02\\_primitive media\\md_chi02.wak",
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI02\\_primitive media\\md_chi02.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI03\\md_chi03.wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03.wak",
+      "source_bytes": 804,
+      "source_sha256": "d16651728900fd2e1bf9fd6854044c16cd9b8a50479fc2efc8f73813f7f79c88",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_CHI03\\_primitive media\\md_chi03.wak",
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI03\\_primitive media\\md_chi03.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03\\md_gla03.wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03.wak",
+      "source_bytes": 1964,
+      "source_sha256": "aed2895bd4c1e5fb67d5a1e5dc6d0b53559d473adfb36e696b24d1bd7162fc9a",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03\\_primitive media\\md_gla03.wak",
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03\\_primitive media\\md_gla03.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine.wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine.wak",
+      "source_bytes": 1964,
+      "source_sha256": "aed2895bd4c1e5fb67d5a1e5dc6d0b53559d473adfb36e696b24d1bd7162fc9a",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA03_CINE\\_primitive media\\md_gla03_cine.wak",
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\_primitive media\\md_gla03_cine.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap.wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap.wak",
+      "source_bytes": 1904,
+      "source_sha256": "cd065ebbc252cf60ba6d3adb22af01b117e7c9e1b84996dce9d8a2b9af4a49b6",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_ShellMap\\_primitive media\\MD_ShellMap.wak",
+      "target_relative": "MapsZH.big\\Maps\\MD_ShellMap\\_primitive media\\MD_ShellMap.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA02\\md_usa02.wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02.wak",
+      "source_bytes": 1164,
+      "source_sha256": "71c5e03ec88c63cb3a3d040d938016496ecbe07f5f83487f4066358b891ca44c",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA02\\_primitive media\\md_usa02.wak",
+      "target_relative": "MapsZH.big\\Maps\\MD_USA02\\_primitive media\\md_usa02.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA05\\md_usa05.wak",
+      "source_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05.wak",
+      "source_bytes": 1664,
+      "source_sha256": "91be86bc5400db597781ad78cf6e439484c78279706ce17ae0da2e0eb5e8ae32",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA05\\_primitive media\\md_usa05.wak",
+      "target_relative": "MapsZH.big\\Maps\\MD_USA05\\_primitive media\\md_usa05.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny.wak",
+      "source_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny.wak",
+      "source_bytes": 1004,
+      "source_sha256": "89c5d7e30df770fafab706f328b7366497966e64011632a262cb3862f90f5c84",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Seaside Mutiny\\_primitive media\\seaside mutiny.wak",
+      "target_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\_primitive media\\seaside mutiny.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD.wak",
+      "source_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD.wak",
+      "source_bytes": 1904,
+      "source_sha256": "cd065ebbc252cf60ba6d3adb22af01b117e7c9e1b84996dce9d8a2b9af4a49b6",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\ShellMapMD\\_primitive media\\ShellMapMD.wak",
+      "target_relative": "MapsZH.big\\Maps\\ShellMapMD\\_primitive media\\ShellMapMD.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert.wak",
+      "source_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert.wak",
+      "source_bytes": 24,
+      "source_sha256": "ee81c282d08aabecbce3feaac03627f279b600c728134780842ab4eb9211cffe",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\Tournament Desert\\_primitive media\\Tournament Desert.wak",
+      "target_relative": "MapsZH.big\\Maps\\Tournament Desert\\_primitive media\\Tournament Desert.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentA\\TournamentA.wak",
+      "source_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA.wak",
+      "source_bytes": 6804,
+      "source_sha256": "30ba14ce98eb68a8ba592b37724fbbeb3466becdbc4b107acaba42ee48f4dff7",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentA\\_primitive media\\TournamentA.wak",
+      "target_relative": "MapsZH.big\\Maps\\TournamentA\\_primitive media\\TournamentA.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentB\\TournamentB.wak",
+      "source_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB.wak",
+      "source_bytes": 18424,
+      "source_sha256": "fd897611e9f1e2ab408e4300dd72fcde28c082502df9a28986e8cb196625d903",
+      "target": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\TournamentB\\_primitive media\\TournamentB.wak",
+      "target_relative": "MapsZH.big\\Maps\\TournamentB\\_primitive media\\TournamentB.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury.wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury.wak",
+      "source_bytes": 1324,
+      "source_sha256": "35e8fcad29caf7dceb6ee9c0ab5fac94562557783619507c921851dac8f56238",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Armored Fury\\_primitive media\\Armored Fury.wak",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\_primitive media\\Armored Fury.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain.wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain.wak",
+      "source_bytes": 3104,
+      "source_sha256": "807b025bc5a933d80448effc6f90d6e7fb0bb38bd3b9d56e2e075eb609ac7d5a",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Dark Mountain\\_primitive media\\dark mountain.wak",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\_primitive media\\dark mountain.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire.wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire.wak",
+      "source_bytes": 964,
+      "source_sha256": "b8d175b89846e23c1abeb101697e45f815ec33f0f5fc5e69ae8046344865dcde",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fallen Empire\\_primitive media\\fallen empire.wak",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\_primitive media\\fallen empire.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche.wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche.wak",
+      "source_bytes": 1744,
+      "source_sha256": "ce883f03388fcc703f4e5546a784d6da292922fc6477e734af6adceea289f128",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\_primitive media\\fortress avalanche.wak",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\_primitive media\\fortress avalanche.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert.wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert.wak",
+      "source_bytes": 784,
+      "source_sha256": "8030d5e3773f3a46326bb1d872871163e706d8d4c469c1114015b109d9edf450",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Desert\\_primitive media\\tournament desert.wak",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\_primitive media\\tournament desert.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island.wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island.wak",
+      "source_bytes": 4084,
+      "source_sha256": "ae273f41c5f8184038cf8aadd0ea24cb253e36aad753b40aa746d5c8a7670b2f",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Island\\_primitive media\\tournament island.wak",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\_primitive media\\tournament island.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake.wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake.wak",
+      "source_bytes": 764,
+      "source_sha256": "c934045bb005d26437c61a156a36cc2d9a17b1f43c160c82df3e39a63bb1cbc1",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\Tournament Lake\\_primitive media\\tournament lake.wak",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\_primitive media\\tournament lake.wak"
+    },
+    {
+      "category": "wak",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\USA04\\usa04.wak",
+      "source_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04.wak",
+      "source_bytes": 964,
+      "source_sha256": "e750696bfdcb36145db5ccc20742df356355660ec3d472e6a3bfc409feaf0613",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\maps.big\\maps\\USA04\\_primitive media\\usa04.wak",
+      "target_relative": "ZH_Generals\\maps.big\\maps\\USA04\\_primitive media\\usa04.wak"
+    },
+    {
+      "category": "csf",
+      "source": "C:\\Programs\\Generals Big Extraction\\EnglishZH.big\\Data\\English\\generals.csf",
+      "source_relative": "EnglishZH.big\\Data\\English\\generals.csf",
+      "source_bytes": 928775,
+      "source_sha256": "8aa98b9e1b63142fb02f76a49cde8d67d3e1467ce88311ec6706e355758a189a",
+      "target": "C:\\Programs\\Generals Big Extraction\\EnglishZH.big\\Data\\English\\_primitive media\\generals.csf",
+      "target_relative": "EnglishZH.big\\Data\\English\\_primitive media\\generals.csf"
+    },
+    {
+      "category": "csf",
+      "source": "C:\\Programs\\Generals Big Extraction\\W3DEnglishZH.big\\Data\\English\\generals.csf",
+      "source_relative": "W3DEnglishZH.big\\Data\\English\\generals.csf",
+      "source_bytes": 925054,
+      "source_sha256": "3d06052fe6545b7c5dff910eb78c391998f60ec6e33d01a0b94b1ba98d3b9791",
+      "target": "C:\\Programs\\Generals Big Extraction\\W3DEnglishZH.big\\Data\\English\\_primitive media\\generals.csf",
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\_primitive media\\generals.csf"
+    },
+    {
+      "category": "csf",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\English.big\\Data\\English\\generals.csf",
+      "source_relative": "ZH_Generals\\English.big\\Data\\English\\generals.csf",
+      "source_bytes": 282246,
+      "source_sha256": "c4523c0d88246efdeedc21827c947f8af2de4e41e22711afc7c362210f912e9e",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\English.big\\Data\\English\\_primitive media\\generals.csf",
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\_primitive media\\generals.csf"
+    },
+    {
+      "category": "doc",
+      "source": "C:\\Programs\\Generals Big Extraction\\EnglishZH.big\\Data\\English\\readme.doc",
+      "source_relative": "EnglishZH.big\\Data\\English\\readme.doc",
+      "source_bytes": 105810,
+      "source_sha256": "07c5c74e7f67caa8178c3d29ad98d929e4fd1f98d28eef75f204db9f231f68e1",
+      "target": "C:\\Programs\\Generals Big Extraction\\EnglishZH.big\\Data\\English\\_primitive media\\readme.doc",
+      "target_relative": "EnglishZH.big\\Data\\English\\_primitive media\\readme.doc"
+    },
+    {
+      "category": "doc",
+      "source": "C:\\Programs\\Generals Big Extraction\\W3DEnglishZH.big\\Data\\English\\readme.doc",
+      "source_relative": "W3DEnglishZH.big\\Data\\English\\readme.doc",
+      "source_bytes": 105810,
+      "source_sha256": "07c5c74e7f67caa8178c3d29ad98d929e4fd1f98d28eef75f204db9f231f68e1",
+      "target": "C:\\Programs\\Generals Big Extraction\\W3DEnglishZH.big\\Data\\English\\_primitive media\\readme.doc",
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\_primitive media\\readme.doc"
+    },
+    {
+      "category": "doc",
+      "source": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\English.big\\Data\\English\\readme.doc",
+      "source_relative": "ZH_Generals\\English.big\\Data\\English\\readme.doc",
+      "source_bytes": 81482,
+      "source_sha256": "57699818c416cd24d6749d52b448eb207632b0bd9912e3da57576be535f82c55",
+      "target": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\English.big\\Data\\English\\_primitive media\\readme.doc",
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\_primitive media\\readme.doc"
+    }
+  ],
+  "removals": [
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ShadersZH.big\\Shaders\\fterrain.pso",
+      "path_relative": "ShadersZH.big\\Shaders\\fterrain.pso",
+      "bytes": 56,
+      "sha256": "4739a19c0fac0720114c8baa7e93d4442bfe6b179b0fd5a2b8991cf73a368e2b",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ShadersZH.big\\Shaders\\fterrain0.pso",
+      "path_relative": "ShadersZH.big\\Shaders\\fterrain0.pso",
+      "bytes": 44,
+      "sha256": "4151177669963687bc37599986bc5f35280b595685adf4d9cca9695f962971c4",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ShadersZH.big\\Shaders\\fterrainnoise.pso",
+      "path_relative": "ShadersZH.big\\Shaders\\fterrainnoise.pso",
+      "bytes": 80,
+      "sha256": "85f8fdda9c9a5e16c5bc35b78fe2c08a9b039817b628b05460806fc47ef6d7a5",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ShadersZH.big\\Shaders\\fterrainnoise2.pso",
+      "path_relative": "ShadersZH.big\\Shaders\\fterrainnoise2.pso",
+      "bytes": 104,
+      "sha256": "3a365599d7e8b0e40b98fea1c098a09bdfd6efc6e6fc7b4d1f8cfa6fd6291d06",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ShadersZH.big\\Shaders\\motionblur.pso",
+      "path_relative": "ShadersZH.big\\Shaders\\motionblur.pso",
+      "bytes": 124,
+      "sha256": "43780354b829844dddf8599fad221ad5d8c462acd04054ea254bc7f4a822e8b9",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ShadersZH.big\\Shaders\\Trees.pso",
+      "path_relative": "ShadersZH.big\\Shaders\\Trees.pso",
+      "bytes": 72,
+      "sha256": "5d50d99e5d8e6192625b1518d07252b559a73949c370af7e52f62d581ca1d605",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\invmonochrome.pso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\invmonochrome.pso",
+      "bytes": 68,
+      "sha256": "89734f38b5bb17bb924d10a45e027b7cebc32f86456546573f8aa7354c0150ac",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\monochrome.pso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\monochrome.pso",
+      "bytes": 68,
+      "sha256": "d955a3febe5b85c3e3fce9fc9ec02a0d4171cc3d85d62688fa138b5213e3a7b6",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\motionblur.pso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\motionblur.pso",
+      "bytes": 124,
+      "sha256": "43780354b829844dddf8599fad221ad5d8c462acd04054ea254bc7f4a822e8b9",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\roadnoise2.pso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\roadnoise2.pso",
+      "bytes": 80,
+      "sha256": "dc27189e0219f797ace96a66f65113305724a489e404f0d9e2d0ef5988b35eaf",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\terrain.pso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\terrain.pso",
+      "bytes": 60,
+      "sha256": "aefcea9655baa0d0839ee2eb66a61600bcf3ecc3b32ff2221843b76451e25b3b",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\terrainnoise.pso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\terrainnoise.pso",
+      "bytes": 84,
+      "sha256": "398b275c7d4b7db022f023667b62e519034796b5ef9d1f33507c764460b523ea",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\terrainnoise2.pso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\terrainnoise2.pso",
+      "bytes": 108,
+      "sha256": "add3b8b09d6769388f06bc63d2c93b5676acb9aae6b2f889eaeb86ea7893e8fb",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "pso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\wave.pso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\wave.pso",
+      "bytes": 44,
+      "sha256": "7a8e21945af12b5d2e509e5abed4558ff7dbb9c3b3c2290b7bdd25583a4b2f99",
+      "reason": "Compiled Direct3D pixel shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "vso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ShadersZH.big\\Shaders\\MotionBlur.vso",
+      "path_relative": "ShadersZH.big\\Shaders\\MotionBlur.vso",
+      "bytes": 80,
+      "sha256": "dbfae86c7487cc88a458438dfb9c465f4af8a810447a8741a5fb159a48e5ad66",
+      "reason": "Compiled Direct3D vertex shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "vso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ShadersZH.big\\Shaders\\Trees.vso",
+      "path_relative": "ShadersZH.big\\Shaders\\Trees.vso",
+      "bytes": 168,
+      "sha256": "b764588d67e652f249892d1c021d35adb748e797a3627b35e33567b0f832cecb",
+      "reason": "Compiled Direct3D vertex shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "vso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\MotionBlur.vso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\MotionBlur.vso",
+      "bytes": 80,
+      "sha256": "dbfae86c7487cc88a458438dfb9c465f4af8a810447a8741a5fb159a48e5ad66",
+      "reason": "Compiled Direct3D vertex shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "vso",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\shaders.big\\Shaders\\wave.vso",
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\wave.vso",
+      "bytes": 156,
+      "sha256": "2f7a40701357820af3dc6962be6376333c67fa59c94f50f3eeaf330fee820fcf",
+      "reason": "Compiled Direct3D vertex shader; not standalone media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "sec",
+      "path": "C:\\Programs\\Generals Big Extraction\\gensecZH.big\\generalsbzh.sec",
+      "path_relative": "gensecZH.big\\generalsbzh.sec",
+      "bytes": 787416,
+      "sha256": "8135510373e31c32f6d7ff4deb242db33bd0a53b35c3c9f608ca2b76cb282062",
+      "reason": "Archive fingerprint/security data; not media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "sec",
+      "path": "C:\\Programs\\Generals Big Extraction\\Music.big\\generalsa.sec",
+      "path_relative": "Music.big\\generalsa.sec",
+      "bytes": 786676,
+      "sha256": "7654627661d2c441167cb100f1fd0d08ac3fd2997bdbf3774df142676a26a2b8",
+      "reason": "Archive fingerprint/security data; not media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "sec",
+      "path": "C:\\Programs\\Generals Big Extraction\\MusicZH.big\\generalsazh.sec",
+      "path_relative": "MusicZH.big\\generalsazh.sec",
+      "bytes": 786676,
+      "sha256": "78043030cd9e4a3fb2f79df51e2b15cada86e5ed5ff2860e02ab62ae6dbcf05a",
+      "reason": "Archive fingerprint/security data; not media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "sec",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\gensec.big\\generalsb.sec",
+      "path_relative": "ZH_Generals\\gensec.big\\generalsb.sec",
+      "bytes": 787416,
+      "sha256": "023c110537170448d315347ed902e0b6bfdd479edc1956db4ce6f36ad1e118fd",
+      "reason": "Archive fingerprint/security data; not media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "sec",
+      "path": "C:\\Programs\\Generals Big Extraction\\ZH_Generals\\Music.big\\generalsa.sec",
+      "path_relative": "ZH_Generals\\Music.big\\generalsa.sec",
+      "bytes": 786676,
+      "sha256": "7654627661d2c441167cb100f1fd0d08ac3fd2997bdbf3774df142676a26a2b8",
+      "reason": "Archive fingerprint/security data; not media",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "empty-str",
+      "path": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA01\\map.str",
+      "path_relative": "MapsZH.big\\Maps\\MD_GLA01\\map.str",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "Empty map-localization placeholder with no content",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "empty-str",
+      "path": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_GLA04\\map.str",
+      "path_relative": "MapsZH.big\\Maps\\MD_GLA04\\map.str",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "Empty map-localization placeholder with no content",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "empty-str",
+      "path": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA01\\map.str",
+      "path_relative": "MapsZH.big\\Maps\\MD_USA01\\map.str",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "Empty map-localization placeholder with no content",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "empty-str",
+      "path": "C:\\Programs\\Generals Big Extraction\\MapsZH.big\\Maps\\MD_USA03\\map.str",
+      "path_relative": "MapsZH.big\\Maps\\MD_USA03\\map.str",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "Empty map-localization placeholder with no content",
+      "recovery": "Re-extract from the source BIG archive named by the first path component"
+    },
+    {
+      "category": "empty-extensionless",
+      "path": "C:\\Programs\\Generals Big Extraction\\PatchZH.big\\Data\\_",
+      "path_relative": "PatchZH.big\\Data\\_",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "Zero-byte extensionless placeholder with no content",
+      "recovery": "Re-extract from PatchZH.big"
+    }
+  ],
+  "derivative_results": [
+    {
+      "target_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Bombardment Beach\\bombardment beach - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Flash Fire\\flash fire - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\GC_Stealth\\gc_stealth - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\gc_superweaponsgeneral - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\leipzig lowlands - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI02\\md_chi02 - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI03\\md_chi03 - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03\\md_gla03 - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\md_gla03_cine - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_ShellMap\\MD_ShellMap - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_USA02\\md_usa02 - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_USA05\\md_usa05 - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\seaside mutiny - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\ShellMapMD\\ShellMapMD - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Tournament Desert\\Tournament Desert - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\TournamentA\\TournamentA - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\TournamentB\\TournamentB - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\Armored Fury - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\dark mountain - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\fallen empire - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\fortress avalanche - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\tournament desert - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\tournament island - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\tournament lake - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Definitions.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Diagram.png",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\USA04\\usa04 - Wave Diagram.svg",
+      "state": "copied"
+    },
+    {
+      "target_relative": "EnglishZH.big\\Data\\English\\Generals - Localized Strings.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "EnglishZH.big\\Data\\English\\Generals - Localized Strings.json",
+      "state": "copied"
+    },
+    {
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\Generals - Localized Strings.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\Generals - Localized Strings.json",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\Generals - Localized Strings.csv",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\Generals - Localized Strings.json",
+      "state": "copied"
+    },
+    {
+      "target_relative": "EnglishZH.big\\Data\\English\\Command & Conquer Generals Zero Hour - Readme.pdf",
+      "state": "copied"
+    },
+    {
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\Command & Conquer Generals Zero Hour - Readme.pdf",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\Command & Conquer Generals - Readme.pdf",
+      "state": "copied"
+    }
+  ],
+  "preservation_results": [
+    {
+      "target_relative": "MapsZH.big\\Maps\\Bombardment Beach\\_primitive media\\bombardment beach.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Flash Fire\\_primitive media\\flash fire.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\GC_Stealth\\_primitive media\\gc_stealth.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\GC_SuperWeaponsGeneral\\_primitive media\\gc_superweaponsgeneral.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Leipzig Lowlands\\_primitive media\\leipzig lowlands.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI02\\_primitive media\\md_chi02.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_CHI03\\_primitive media\\md_chi03.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03\\_primitive media\\md_gla03.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_GLA03_CINE\\_primitive media\\md_gla03_cine.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_ShellMap\\_primitive media\\MD_ShellMap.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_USA02\\_primitive media\\md_usa02.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\MD_USA05\\_primitive media\\md_usa05.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Seaside Mutiny\\_primitive media\\seaside mutiny.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\ShellMapMD\\_primitive media\\ShellMapMD.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\Tournament Desert\\_primitive media\\Tournament Desert.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\TournamentA\\_primitive media\\TournamentA.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "MapsZH.big\\Maps\\TournamentB\\_primitive media\\TournamentB.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Armored Fury\\_primitive media\\Armored Fury.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Dark Mountain\\_primitive media\\dark mountain.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fallen Empire\\_primitive media\\fallen empire.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Fortress Avalanche\\_primitive media\\fortress avalanche.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Desert\\_primitive media\\tournament desert.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Island\\_primitive media\\tournament island.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\Tournament Lake\\_primitive media\\tournament lake.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\maps.big\\maps\\USA04\\_primitive media\\usa04.wak",
+      "state": "copied"
+    },
+    {
+      "target_relative": "EnglishZH.big\\Data\\English\\_primitive media\\generals.csf",
+      "state": "copied"
+    },
+    {
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\_primitive media\\generals.csf",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\_primitive media\\generals.csf",
+      "state": "copied"
+    },
+    {
+      "target_relative": "EnglishZH.big\\Data\\English\\_primitive media\\readme.doc",
+      "state": "copied"
+    },
+    {
+      "target_relative": "W3DEnglishZH.big\\Data\\English\\_primitive media\\readme.doc",
+      "state": "copied"
+    },
+    {
+      "target_relative": "ZH_Generals\\English.big\\Data\\English\\_primitive media\\readme.doc",
+      "state": "copied"
+    }
+  ],
+  "removal_results": [
+    {
+      "path_relative": "ShadersZH.big\\Shaders\\fterrain.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ShadersZH.big\\Shaders\\fterrain0.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ShadersZH.big\\Shaders\\fterrainnoise.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ShadersZH.big\\Shaders\\fterrainnoise2.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ShadersZH.big\\Shaders\\motionblur.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ShadersZH.big\\Shaders\\Trees.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\invmonochrome.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\monochrome.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\motionblur.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\roadnoise2.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\terrain.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\terrainnoise.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\terrainnoise2.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\wave.pso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ShadersZH.big\\Shaders\\MotionBlur.vso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ShadersZH.big\\Shaders\\Trees.vso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\MotionBlur.vso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\shaders.big\\Shaders\\wave.vso",
+      "state": "removed"
+    },
+    {
+      "path_relative": "gensecZH.big\\generalsbzh.sec",
+      "state": "removed"
+    },
+    {
+      "path_relative": "Music.big\\generalsa.sec",
+      "state": "removed"
+    },
+    {
+      "path_relative": "MusicZH.big\\generalsazh.sec",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\gensec.big\\generalsb.sec",
+      "state": "removed"
+    },
+    {
+      "path_relative": "ZH_Generals\\Music.big\\generalsa.sec",
+      "state": "removed"
+    },
+    {
+      "path_relative": "MapsZH.big\\Maps\\MD_GLA01\\map.str",
+      "state": "removed"
+    },
+    {
+      "path_relative": "MapsZH.big\\Maps\\MD_GLA04\\map.str",
+      "state": "removed"
+    },
+    {
+      "path_relative": "MapsZH.big\\Maps\\MD_USA01\\map.str",
+      "state": "removed"
+    },
+    {
+      "path_relative": "MapsZH.big\\Maps\\MD_USA03\\map.str",
+      "state": "removed"
+    },
+    {
+      "path_relative": "PatchZH.big\\Data\\_",
+      "state": "removed"
+    }
+  ]
+}

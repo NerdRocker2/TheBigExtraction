@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+<rect width="100%" height="100%" fill="#101722"/>
+<text x="90" y="84" fill="#f4f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="600">Tournament Desert - Water Wave Layout</text>
+<text x="90" y="130" fill="#aebdce" font-family="Segoe UI,Arial,sans-serif" font-size="24">1 wave definitions | map-coordinate diagram | source: MapsZH.big\Maps\Tournament Desert\Tournament Desert.wak</text>
+<line x1="130.00" y1="560.43" x2="130.00" y2="649.57" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="560.43" x2="1670.00" y2="560.43" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="96.00" y="683.57" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">12</text>
+<text x="50.00" y="566.43" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">-59</text>
+<line x1="438.00" y1="560.43" x2="438.00" y2="649.57" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="578.26" x2="1670.00" y2="578.26" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="404.00" y="683.57" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">12</text>
+<text x="50.00" y="584.26" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">-59</text>
+<line x1="746.00" y1="560.43" x2="746.00" y2="649.57" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="596.09" x2="1670.00" y2="596.09" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="712.00" y="683.57" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">12</text>
+<text x="50.00" y="602.09" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">-59</text>
+<line x1="1054.00" y1="560.43" x2="1054.00" y2="649.57" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="613.91" x2="1670.00" y2="613.91" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="1020.00" y="683.57" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">12</text>
+<text x="50.00" y="619.91" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">-59</text>
+<line x1="1362.00" y1="560.43" x2="1362.00" y2="649.57" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="631.74" x2="1670.00" y2="631.74" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="1328.00" y="683.57" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">12</text>
+<text x="50.00" y="637.74" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">-59</text>
+<line x1="1670.00" y1="560.43" x2="1670.00" y2="649.57" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="649.57" x2="1670.00" y2="649.57" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="1636.00" y="683.57" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">13</text>
+<text x="50.00" y="655.57" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">-59</text>
+<rect x="130.00" y="560.43" width="1540.00" height="89.14" fill="none" stroke="#d9e2ec" stroke-opacity="0.40" stroke-width="2"/>
+<line x1="180.37" y1="646.65" x2="1619.63" y2="563.35" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="4" stroke-linecap="round"><title>Ocean entry 1: (11.63, -59.25) to (12.63, -59.20)</title></line>
+<line x1="95" y1="1102" x2="133" y2="1102" stroke="#50c8e8" stroke-width="5"/>
+<text x="145" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Pond (0)</text>
+<line x1="405" y1="1102" x2="443" y2="1102" stroke="#4f8cff" stroke-width="5"/>
+<text x="455" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Ocean (1)</text>
+<line x1="715" y1="1102" x2="753" y2="1102" stroke="#a889ff" stroke-width="5"/>
+<text x="765" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Close Ocean (0)</text>
+<line x1="1025" y1="1102" x2="1063" y2="1102" stroke="#e26ee5" stroke-width="5"/>
+<text x="1075" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Close Ocean Double (0)</text>
+<line x1="1335" y1="1102" x2="1373" y2="1102" stroke="#ffae57" stroke-width="5"/>
+<text x="1385" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Radial (0)</text>
+</svg>

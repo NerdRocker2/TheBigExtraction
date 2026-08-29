@@ -1,0 +1,19 @@
+{
+  "collection": "C:\\Programs\\Generals Big Extraction",
+  "approved_animation_cases": 305,
+  "rejected_animation_cases": 57,
+  "physical_deployments": 305,
+  "mp4_deployments": 38,
+  "gif_deployments": 267,
+  "new_targets": 305,
+  "already_copied_targets": 0,
+  "conflicts": 0,
+  "copy_bytes": 24747830,
+  "unique_destinations": 305,
+  "preflight_passed": true,
+  "media_copied": 305,
+  "media_already_copied": 0,
+  "deployment_complete": true,
+  "journal": "C:\\Users\\Jeff\\Documents\\Codex\\2026-08-18\\in\\w3d-animation-production\\deployment-journal.jsonl",
+  "finished_at_epoch": 1787549264.743694
+}

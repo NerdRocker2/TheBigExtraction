@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+<rect width="100%" height="100%" fill="#101722"/>
+<text x="90" y="84" fill="#f4f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="600">md_usa02 - Water Wave Layout</text>
+<text x="90" y="130" fill="#aebdce" font-family="Segoe UI,Arial,sans-serif" font-size="24">58 wave definitions | map-coordinate diagram | source: MapsZH.big\Maps\MD_USA02\md_usa02.wak</text>
+<line x1="130.00" y1="447.05" x2="130.00" y2="762.95" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="447.05" x2="1670.00" y2="447.05" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="96.00" y="796.95" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">-110</text>
+<text x="50.00" y="453.05" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">1527</text>
+<line x1="438.00" y1="447.05" x2="438.00" y2="762.95" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="510.23" x2="1670.00" y2="510.23" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="404.00" y="796.95" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">623</text>
+<text x="50.00" y="516.23" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">1377</text>
+<line x1="746.00" y1="447.05" x2="746.00" y2="762.95" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="573.41" x2="1670.00" y2="573.41" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="712.00" y="796.95" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">1355</text>
+<text x="50.00" y="579.41" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">1227</text>
+<line x1="1054.00" y1="447.05" x2="1054.00" y2="762.95" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="636.59" x2="1670.00" y2="636.59" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="1020.00" y="796.95" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">2088</text>
+<text x="50.00" y="642.59" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">1076</text>
+<line x1="1362.00" y1="447.05" x2="1362.00" y2="762.95" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="699.77" x2="1670.00" y2="699.77" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="1328.00" y="796.95" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">2821</text>
+<text x="50.00" y="705.77" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">926</text>
+<line x1="1670.00" y1="447.05" x2="1670.00" y2="762.95" stroke="#ffffff" stroke-opacity="0.10"/>
+<line x1="130.00" y1="762.95" x2="1670.00" y2="762.95" stroke="#ffffff" stroke-opacity="0.10"/>
+<text x="1636.00" y="796.95" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">3554</text>
+<text x="50.00" y="768.95" fill="#92a1b2" font-family="Segoe UI,Arial,sans-serif" font-size="18">776</text>
+<rect x="130.00" y="447.05" width="1540.00" height="315.90" fill="none" stroke="#d9e2ec" stroke-opacity="0.40" stroke-width="2"/>
+<line x1="772.12" y1="499.38" x2="771.71" y2="499.29" stroke="#50c8e8" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Pond entry 1: (1417.62, 1402.95) to (1416.64, 1403.15)</title></line>
+<line x1="769.59" y1="509.34" x2="769.19" y2="509.23" stroke="#50c8e8" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Pond entry 2: (1411.60, 1379.24) to (1410.64, 1379.52)</title></line>
+<line x1="764.58" y1="518.21" x2="764.31" y2="517.89" stroke="#50c8e8" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Pond entry 3: (1399.69, 1358.14) to (1399.03, 1358.90)</title></line>
+<line x1="755.78" y1="522.47" x2="755.74" y2="522.05" stroke="#50c8e8" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Pond entry 4: (1378.75, 1348.01) to (1378.66, 1349.00)</title></line>
+<line x1="746.07" y1="521.62" x2="746.14" y2="521.21" stroke="#50c8e8" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Pond entry 5: (1355.64, 1350.03) to (1355.81, 1351.02)</title></line>
+<line x1="735.44" y1="520.49" x2="735.46" y2="520.07" stroke="#50c8e8" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Pond entry 6: (1330.36, 1352.71) to (1330.41, 1353.71)</title></line>
+<line x1="724.39" y1="520.14" x2="724.40" y2="519.72" stroke="#50c8e8" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Pond entry 7: (1304.06, 1353.55) to (1304.08, 1354.55)</title></line>
+<line x1="896.76" y1="588.74" x2="897.14" y2="588.55" stroke="#ffae57" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Radial entry 8: (1714.17, 1190.34) to (1715.07, 1190.78)</title></line>
+<line x1="884.26" y1="573.92" x2="884.50" y2="573.58" stroke="#ffae57" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Radial entry 9: (1684.43, 1225.59) to (1685.01, 1226.41)</title></line>
+<line x1="868.48" y1="566.84" x2="868.55" y2="566.42" stroke="#ffae57" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Radial entry 10: (1646.88, 1242.45) to (1647.05, 1243.43)</title></line>
+<line x1="1074.47" y1="685.87" x2="1074.23" y2="685.52" stroke="#ffae57" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Radial entry 11: (2137.00, 959.24) to (2136.43, 960.06)</title></line>
+<line x1="252.97" y1="645.74" x2="252.95" y2="645.32" stroke="#ffae57" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Radial entry 12: (182.42, 1054.71) to (182.37, 1055.71)</title></line>
+<line x1="233.14" y1="652.31" x2="232.88" y2="651.98" stroke="#ffae57" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Radial entry 13: (135.23, 1039.08) to (134.62, 1039.87)</title></line>
+<line x1="217.78" y1="668.70" x2="217.40" y2="668.52" stroke="#ffae57" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Radial entry 14: (98.71, 1000.08) to (97.80, 1000.51)</title></line>
+<line x1="983.81" y1="696.95" x2="984.14" y2="696.68" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 15: (1921.30, 932.87) to (1922.07, 933.51)</title></line>
+<line x1="967.23" y1="684.27" x2="967.44" y2="683.90" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 16: (1881.85, 963.05) to (1882.34, 963.93)</title></line>
+<line x1="955.36" y1="663.79" x2="955.44" y2="663.38" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 17: (1853.61, 1011.77) to (1853.79, 1012.76)</title></line>
+<line x1="943.13" y1="677.17" x2="943.17" y2="676.75" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 18: (1824.50, 979.94) to (1824.59, 980.94)</title></line>
+<line x1="916.59" y1="681.17" x2="916.44" y2="680.78" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 19: (1761.35, 970.42) to (1760.99, 971.35)</title></line>
+<line x1="898.62" y1="680.22" x2="898.81" y2="679.85" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 20: (1718.61, 972.67) to (1719.06, 973.57)</title></line>
+<line x1="1063.83" y1="724.48" x2="1063.64" y2="724.11" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 21: (2111.69, 867.37) to (2111.23, 868.25)</title></line>
+<line x1="1046.05" y1="731.37" x2="1045.95" y2="730.97" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 22: (2069.38, 850.97) to (2069.13, 851.94)</title></line>
+<line x1="1028.49" y1="739.91" x2="1028.21" y2="739.60" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 23: (2027.59, 830.66) to (2026.92, 831.40)</title></line>
+<line x1="1013.89" y1="752.62" x2="1013.63" y2="752.29" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 24: (1992.87, 800.43) to (1992.24, 801.20)</title></line>
+<line x1="1619.58" y1="459.14" x2="1619.63" y2="458.72" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 25: (3433.96, 1498.69) to (3434.07, 1499.68)</title></line>
+<line x1="1603.25" y1="459.21" x2="1603.20" y2="458.80" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 26: (3395.11, 1498.51) to (3395.00, 1499.51)</title></line>
+<line x1="1586.30" y1="460.23" x2="1586.30" y2="459.81" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 27: (3354.79, 1496.08) to (3354.78, 1497.08)</title></line>
+<line x1="1569.50" y1="459.63" x2="1569.54" y2="459.21" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 28: (3314.82, 1497.51) to (3314.90, 1498.51)</title></line>
+<line x1="1552.71" y1="458.51" x2="1552.74" y2="458.09" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 29: (3274.87, 1500.19) to (3274.92, 1501.19)</title></line>
+<line x1="1534.40" y1="458.17" x2="1534.40" y2="457.75" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 30: (3231.29, 1500.98) to (3231.28, 1501.98)</title></line>
+<line x1="1516.02" y1="458.97" x2="1515.98" y2="458.55" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 31: (3187.56, 1499.09) to (3187.48, 1500.08)</title></line>
+<line x1="1497.76" y1="457.80" x2="1497.79" y2="457.38" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 32: (3144.13, 1501.87) to (3144.19, 1502.86)</title></line>
+<line x1="1478.94" y1="458.44" x2="1478.88" y2="458.03" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 33: (3099.33, 1500.34) to (3099.19, 1501.33)</title></line>
+<line x1="1460.12" y1="461.46" x2="1460.04" y2="461.04" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 34: (3054.56, 1493.17) to (3054.38, 1494.16)</title></line>
+<line x1="1440.26" y1="467.58" x2="1440.10" y2="467.20" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 35: (3007.31, 1478.60) to (3006.92, 1479.52)</title></line>
+<line x1="1420.50" y1="474.44" x2="1420.36" y2="474.05" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 36: (2960.29, 1462.27) to (2959.97, 1463.22)</title></line>
+<line x1="1401.19" y1="482.17" x2="1401.01" y2="481.79" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 37: (2914.35, 1443.90) to (2913.93, 1444.81)</title></line>
+<line x1="1382.50" y1="491.35" x2="1382.30" y2="490.97" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 38: (2869.88, 1422.06) to (2869.42, 1422.95)</title></line>
+<line x1="1364.56" y1="500.86" x2="1364.36" y2="500.49" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 39: (2827.20, 1399.43) to (2826.72, 1400.31)</title></line>
+<line x1="1346.15" y1="506.95" x2="1346.03" y2="506.55" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 40: (2783.40, 1384.92) to (2783.10, 1385.88)</title></line>
+<line x1="1329.09" y1="513.54" x2="1328.92" y2="513.16" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 41: (2742.82, 1369.25) to (2742.40, 1370.16)</title></line>
+<line x1="1311.74" y1="524.90" x2="1311.47" y2="524.58" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 42: (2701.52, 1342.23) to (2700.87, 1342.99)</title></line>
+<line x1="1295.58" y1="540.12" x2="1295.28" y2="539.83" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 43: (2663.08, 1306.00) to (2662.36, 1306.70)</title></line>
+<line x1="1280.97" y1="556.65" x2="1280.64" y2="556.38" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 44: (2628.30, 1266.69) to (2627.53, 1267.32)</title></line>
+<line x1="1266.42" y1="572.81" x2="1266.11" y2="572.52" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 45: (2593.69, 1228.23) to (2592.97, 1228.92)</title></line>
+<line x1="1251.22" y1="585.72" x2="1250.98" y2="585.37" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 46: (2557.52, 1197.53) to (2556.96, 1198.36)</title></line>
+<line x1="1236.16" y1="598.04" x2="1235.87" y2="597.74" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 47: (2521.70, 1168.21) to (2521.00, 1168.93)</title></line>
+<line x1="1221.18" y1="611.66" x2="1220.89" y2="611.36" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 48: (2486.06, 1135.79) to (2485.37, 1136.52)</title></line>
+<line x1="1204.69" y1="624.70" x2="1204.46" y2="624.35" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 49: (2446.83, 1104.78) to (2446.28, 1105.62)</title></line>
+<line x1="1187.86" y1="635.73" x2="1187.63" y2="635.37" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 50: (2406.78, 1078.54) to (2406.24, 1079.38)</title></line>
+<line x1="1171.94" y1="646.46" x2="1171.70" y2="646.11" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 51: (2368.90, 1053.01) to (2368.33, 1053.83)</title></line>
+<line x1="1153.36" y1="656.45" x2="1153.14" y2="656.09" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 52: (2324.69, 1029.23) to (2324.16, 1030.08)</title></line>
+<line x1="1137.34" y1="670.44" x2="1137.02" y2="670.17" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 53: (2286.58, 995.95) to (2285.81, 996.58)</title></line>
+<line x1="1121.50" y1="681.19" x2="1121.37" y2="680.79" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 54: (2248.90, 970.37) to (2248.59, 971.32)</title></line>
+<line x1="1099.46" y1="684.92" x2="1099.38" y2="684.51" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 55: (2196.45, 961.49) to (2196.27, 962.47)</title></line>
+<line x1="1079.13" y1="693.31" x2="1078.87" y2="692.98" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 56: (2148.08, 941.54) to (2147.45, 942.31)</title></line>
+<line x1="201.07" y1="682.00" x2="200.93" y2="681.60" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 57: (58.95, 968.44) to (58.62, 969.39)</title></line>
+<line x1="180.37" y1="685.13" x2="180.39" y2="684.71" stroke="#4f8cff" stroke-opacity="0.86" stroke-width="3" stroke-linecap="round"><title>Ocean entry 58: (9.70, 961.00) to (9.72, 962.00)</title></line>
+<line x1="95" y1="1102" x2="133" y2="1102" stroke="#50c8e8" stroke-width="5"/>
+<text x="145" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Pond (7)</text>
+<line x1="405" y1="1102" x2="443" y2="1102" stroke="#4f8cff" stroke-width="5"/>
+<text x="455" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Ocean (44)</text>
+<line x1="715" y1="1102" x2="753" y2="1102" stroke="#a889ff" stroke-width="5"/>
+<text x="765" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Close Ocean (0)</text>
+<line x1="1025" y1="1102" x2="1063" y2="1102" stroke="#e26ee5" stroke-width="5"/>
+<text x="1075" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Close Ocean Double (0)</text>
+<line x1="1335" y1="1102" x2="1373" y2="1102" stroke="#ffae57" stroke-width="5"/>
+<text x="1385" y="1110" fill="#e5ebf2" font-family="Segoe UI,Arial,sans-serif" font-size="21">Radial (7)</text>
+</svg>

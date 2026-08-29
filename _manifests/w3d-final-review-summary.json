@@ -1,0 +1,11 @@
+{
+  "flagged_review_cases": 143,
+  "flagged_review_accepted": 80,
+  "flagged_review_rejected": 63,
+  "automatic_image_gate_accepted": 6809,
+  "final_unique_models_accepted": 6889,
+  "final_unique_models_rejected": 474,
+  "physical_deployments": 6889,
+  "all_accepted_glbs_round_trip_valid": true,
+  "collection_modified": false
+}
